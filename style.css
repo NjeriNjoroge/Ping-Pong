@@ -1,0 +1,13 @@
+.jumbotron{
+  color:white;
+}
+.container{
+  padding-top: 1%;
+}
+
+body{
+  background-image: url(https://images.pexels.com/photos/278911/pexels-photo-278911.jpeg?w=940&h=650&auto=compress&cs=tinysrgb);
+  background-repeat: no-repeat;
+  background-size: cover;
+  font-weight: bolder;
+}
