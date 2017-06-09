@@ -1,9 +1,11 @@
 var pingPong = function(playInput){
-  if(playInput % 15 === 0){
+  if ((playInput % 5 === 0) && (playInput % 3 === 0)) {
   alert("pingpong");
 } else if (playInput % 3 === 0) {
-  alert("ping")
-}
+  alert("ping");
+} else if (playInput % 5 === 0){
+  alert("pong");
+};
 };
 
 
